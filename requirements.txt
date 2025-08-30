@@ -1,0 +1,5 @@
+langchain_openai
+openai
+tiktoken
+selenium # test under current environment
+dotenv
